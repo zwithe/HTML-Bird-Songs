@@ -34,6 +34,10 @@ nav a:hover {
     color: hotpink;
 }
 
+.current-page {
+    background-color: white;
+}
+
 main {
     margin: 0 10%;
 }
